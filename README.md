@@ -23,6 +23,7 @@ This project covers the end-to-end data science lifecycle, from data acquisition
 | `data/` | CSV datasets and the SQLite database file. |
 | `notebooks/` | Numbered Jupyter notebooks following the project workflow. |
 | `app/` | Python script for the Plotly Dash interactive dashboard. |
+| `ds-capstone-coursera.pdf` | Project Presentation in PDF Format. |
 | `README.md` | Project summary and documentation. |
 
 ## Methodology
